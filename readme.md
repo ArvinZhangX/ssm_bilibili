@@ -43,14 +43,23 @@
 
 (数据库备份 项目截图 源码)
 
-链接: https://pan.baidu.com/s/1pMwc7vt 密码: kjud
+
 
 (Static 静态文件  这个文件直接放到webapp下面 直接用)
 
-链接: https://pan.baidu.com/s/1eTj3EX8 密码: xabt
 
 视频连接地址
 
-链接: https://pan.baidu.com/s/1c3gjVPY 密码: rwym
+如果有问题可以联系QQ  994397633
+
+如果您觉得对你有帮助，那么你可以给一些支持 工作qq：994397633
+![image](https://github.com/ArvinZhangX/file_tem/blob/master/chat_pay.png)
+服务器的费用也是一笔开销
+为用户提供更好的搜索环境
+一杯咖啡
+请扫一扫微信支付（留言希望你带上自己的名字^_^）：
+![image](https://github.com/ArvinZhangX/file_tem/blob/master/chat_pay.png)
+
+https://github.com/ArvinZhangX/file_tem/blob/master/chat_pay.png
 
 ↑ ↑ 视频的地址放到  webapp/static/videolook 这个目录下面 
