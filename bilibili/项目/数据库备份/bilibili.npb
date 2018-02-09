@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BackupProfile Ver="1.2">
+  <General ConnectionName="localhost_3306" DatabaseName="bilibili" SchemaName="" Compressed="true" LockAllTables="false" UseSingleTransaction="false" UseSpecifyFileName="false" FileName="" Comments="爱仕达"/>
+  <Tables SelectAll="true"/>
+  <Views SelectAll="false"/>
+  <Functions SelectAll="false"/>
+  <Events SelectAll="false"/>
+  <Sequences SelectAll="false"/>
+  <Indexes SelectAll="false"/>
+  <Triggers SelectAll="false"/>
+</BackupProfile>

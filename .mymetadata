@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="bilibili"
+  id="myeclipse.1506081609504"
+  context-root="/bilibili"
+  j2ee-spec="1.7"
+  archive="bilibili.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+

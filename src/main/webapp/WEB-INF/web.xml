@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<web-app version="2.5" xmlns="http://Java.sun.com/xml/ns/javaee"
+
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+
+	xsi:schemaLocation="http://java.sun.com/xml/ns/javaee
+
+        http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd">
+	<!-- 这一段有瑕疵 自动生成 <!DOCTYPE web-app PUBLIC "-//Sun Microsystems, Inc.//DTD 
+		Web Application 2.3//EN" "http://java.sun.com/dtd/web-app_2_3.dtd" > <web-app> -->
+
+	<display-name>bilibili</display-name>
+
+
+
+	<!-- 设置乱码问题 -->
+	<filter>
+		<filter-name>CharacterEncodingFilter</filter-name>
+		<filter-class>org.springframework.web.filter.CharacterEncodingFilter</filter-class>
+		<init-param>
+			<param-name>encoding</param-name>
+			<param-value>utf-8</param-value>
+		</init-param>
+	</filter>
+	<filter-mapping>
+		<filter-name>CharacterEncodingFilter</filter-name>
+		<url-pattern>/*</url-pattern>
+	</filter-mapping>
+
+<!-- 静态文件 -->
+	<servlet-mapping>  
+            <servlet-name>default</servlet-name>  
+            <url-pattern>*.css</url-pattern>  
+    </servlet-mapping>
+    <servlet-mapping>  
+            <servlet-name>default</servlet-name>  
+            <url-pattern>*.gif</url-pattern>  
+    </servlet-mapping>
+    <servlet-mapping>  
+            <servlet-name>default</servlet-name>  
+            <url-pattern>*.jpg</url-pattern>  
+    </servlet-mapping>  
+        <servlet-mapping>  
+            <servlet-name>default</servlet-name>  
+            <url-pattern>*.mp4</url-pattern>  
+    </servlet-mapping> 
+        <servlet-mapping>  
+            <servlet-name>default</servlet-name>  
+            <url-pattern>*.png</url-pattern>  
+    </servlet-mapping>  
+    <servlet-mapping>  
+            <servlet-name>default</servlet-name>  
+            <url-pattern>*.js</url-pattern>  
+    </servlet-mapping>  
+    <servlet-mapping> 
+            <servlet-name>default</servlet-name> 
+            <url-pattern>*.html</url-pattern> 
+    </servlet-mapping>
+
+
+	<!-- <servlet-mapping> <servlet-name >default </servlet-name > <url-pattern 
+		>*.js</url-pattern> </servlet-mapping > <servlet-mapping > <servlet-name 
+		>default </servlet-name > <url-pattern >*.css</url-pattern> </servlet-mapping 
+		> <servlet-mapping > <servlet-name >default </servlet-name > <url-pattern 
+		>*.htm</url-pattern> </servlet-mapping > <servlet-mapping > <servlet-name 
+		>default </servlet-name > <url-pattern >*.gif</url-pattern> </servlet-mapping 
+		> <servlet-mapping > <servlet-name >default </servlet-name > <url-pattern 
+		>*.png</url-pattern> </servlet-mapping > <servlet-mapping > <servlet-name 
+		>default </servlet-name > <url-pattern >*.jpg</url-pattern> </servlet-mapping 
+		> -->
+
+	<!-- 配置监听器 springcontext.xml -->
+	<listener>
+		<listener-class>org.springframework.web.context.ContextLoaderListener
+		</listener-class>
+	</listener>
+	<!-- 配置文件位置 -->
+	<context-param>
+		<param-name>contextConfigLocation</param-name>
+		<param-value>classpath:springcontext.xml</param-value>
+	</context-param>
+
+
+
+	<servlet>
+		<servlet-name>spring-mvc</servlet-name>
+		<servlet-class>org.springframework.web.servlet.DispatcherServlet
+		</servlet-class>
+
+		<init-param>
+			<param-name>contextConfigLocation</param-name>
+			<param-value>classpath:spring-mvc.xml</param-value>
+		</init-param>
+		<load-on-startup>1</load-on-startup>
+	</servlet>
+	<servlet>
+		<description>
+		</description>
+		<display-name>UploadServlet</display-name>
+		<servlet-name>UploadServlet</servlet-name>
+		<servlet-class>com.sf.servlet.UploadServlet</servlet-class>
+	</servlet>
+	<servlet>
+		<description>
+		</description>
+		<display-name>ProServlet</display-name>
+		<servlet-name>ProServlet</servlet-name>
+		<servlet-class>com.sf.servlet.ProServlet</servlet-class>
+	</servlet>
+	<servlet>
+		<description>
+		</description>
+		<display-name>one</display-name>
+		<servlet-name>one</servlet-name>
+		<servlet-class>com.sf.servlet.one</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>spring-mvc</servlet-name>
+		<url-pattern>/</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>UploadServlet</servlet-name>
+		<url-pattern>/UploadServlet</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>ProServlet</servlet-name>
+		<url-pattern>/ProServlet</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>one</servlet-name>
+		<url-pattern>/one</url-pattern>
+	</servlet-mapping>
+
+	<!-- 访问 项目 默认访问首页的jsp页面 -->
+	<welcome-file-list>
+		<!-- <welcome-file>/WEB-INF/web-jsp/shouye.jsp</welcome-file> -->
+		<welcome-file>one</welcome-file>
+	</welcome-file-list>
+
+
+</web-app>
