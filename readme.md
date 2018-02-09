@@ -4,8 +4,11 @@
 
 直接部署到tomcat 下面就可以执行
 
-![image](url)
+![image](https://github.com/ArvinZhangX/ssm_bilibili/blob/master/bilibili/%E9%A1%B9%E7%9B%AE/%E4%B8%BB%E9%A1%B5.png)
 
+![image](https://github.com/ArvinZhangX/ssm_bilibili/blob/master/bilibili/主页.png)
+
+![image](https://github.com/ArvinZhangX/ssm_bilibili/blob/master/bilibili/订单.png)
 
 运行步骤：
 
