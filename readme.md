@@ -1,3 +1,7 @@
+ssm(spring+spring mvc+mybatis+maven)高仿bilibili视频网站项目实例
+
+里面包含论坛， 购物商城  网页  后台管理的java项目集成
+
 开发环境：Eclipse ，JDK 1.8 ，Tomcat7
 
 (论坛/购物/网页/后台)
