@@ -55,7 +55,7 @@ ssm(spring+spring mvc+mybatis+maven)高仿bilibili视频网站项目实例
 视频连接地址
 
 如果有问题可以联系QQ  994397633
-
+![image](https://github.com/ArvinZhangX/file_tem/blob/master/Alipay.png)
 如果您觉得对你有帮助，那么你可以给一些支持 工作qq：994397633
 ![image](https://github.com/ArvinZhangX/file_tem/blob/master/chat_pay.png)
 服务器的费用也是一笔开销
