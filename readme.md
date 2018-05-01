@@ -69,4 +69,9 @@ ssm(spring+spring mvc+mybatis+maven)高仿bilibili视频网站项目实例
 
 https://github.com/ArvinZhangX/file_tem/blob/master/chat_pay.png
 
+万分感谢赞赏用户  Mr.Smirks 、 aibili等人支持
+使得服务器可以继续维持！！！跪谢大佬
+![image](https://github.com/ArvinZhangX/file_tem/blob/master/shang.jpg)
+
+
 ↑ ↑ 视频的地址放到  webapp/static/videolook 这个目录下面 
