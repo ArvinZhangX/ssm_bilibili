@@ -75,4 +75,5 @@ https://github.com/ArvinZhangX/file_tem/blob/master/chat_pay.png
 
 ![image](https://github.com/ArvinZhangX/file_tem/blob/master/shang_chen.png)
 
+感谢 *浩赞赏支持50元.... 后续所有名单都会补充，赞赏用于服务器租用费用，谢谢大家
 ↑ ↑ 视频的地址放到  webapp/static/videolook 这个目录下面 
