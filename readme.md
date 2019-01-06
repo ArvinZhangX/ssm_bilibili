@@ -39,14 +39,14 @@ ssm(spring+spring mvc+mybatis+maven)高仿bilibili视频网站项目实例
 
 运行步骤：
 
-建立数据库，导入sql文件
-更改数据源db.properties设置
-启动Tomcat
-浏览器访问：http://localhost:8080
-
+1.建立数据库，导入sql文件
+2.更改数据源db.properties设置
+3.启动Tomcat
+4.浏览器访问：http://localhost:8080
+PS: 
 项目流程: 下载数据库备份 →→下载static静态文件放到webapp下面→→视频可下载可不下载(重要:static这个文件一定要放在webapp下面 这样项目才可以访问)
 
-百度网盘地址
+视频的地址放到  webapp/static/videolook 这个目录下面 
 
 (数据库备份 项目截图 源码)
 
@@ -58,6 +58,7 @@ ssm(spring+spring mvc+mybatis+maven)高仿bilibili视频网站项目实例
 视频连接地址
 
 精力有限有问题可以联系微信  994397633   （只限赞赏用户，谢谢，其他不回复）
+
 ![image](https://github.com/ArvinZhangX/file_tem/blob/master/Alipay.png)
 如果您觉得对你有帮助，那么你可以给一些支持 工作qq：994397633
 ![image](https://github.com/ArvinZhangX/file_tem/blob/master/chat_pay.png)
@@ -71,6 +72,10 @@ https://github.com/ArvinZhangX/file_tem/blob/master/chat_pay.png
 
 万分感谢赞赏用户  Mr.Smirks 、 aibili, 陈毅 等人支持
 使得服务器可以继续维持！！！跪谢大佬
+
+
+感谢 *浩赞赏支持50元  刁志昕支持20元 .... 后续所有名单都会补充，赞赏用于服务器租用费用，谢谢大家
+*文昌   * 小衡   广浩 ....支持 50元
 ![image](https://github.com/ArvinZhangX/file_tem/blob/master/shang.jpg)
 
 ![image](https://github.com/ArvinZhangX/file_tem/blob/master/shang_chen.png)
@@ -79,7 +84,5 @@ https://github.com/ArvinZhangX/file_tem/blob/master/chat_pay.png
 
 ![image](https://github.com/ArvinZhangX/file_tem/blob/master/shang_diao.jpg)
 
-感谢 *浩赞赏支持50元  刁志昕支持20元 .... 后续所有名单都会补充，赞赏用于服务器租用费用，谢谢大家
-*文昌   * 小衡   广浩 ....支持 50元
 
-↑ ↑ 视频的地址放到  webapp/static/videolook 这个目录下面 
+
