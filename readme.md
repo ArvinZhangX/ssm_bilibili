@@ -57,7 +57,7 @@ ssm(spring+spring mvc+mybatis+maven)高仿bilibili视频网站项目实例
 
 视频连接地址
 
-精力有限有问题可以联系QQ  994397633   （只限赞赏用户，谢谢，其他不回复）
+精力有限有问题可以联系微信  994397633   （只限赞赏用户，谢谢，其他不回复）
 ![image](https://github.com/ArvinZhangX/file_tem/blob/master/Alipay.png)
 如果您觉得对你有帮助，那么你可以给一些支持 工作qq：994397633
 ![image](https://github.com/ArvinZhangX/file_tem/blob/master/chat_pay.png)
@@ -80,6 +80,6 @@ https://github.com/ArvinZhangX/file_tem/blob/master/chat_pay.png
 ![image](https://github.com/ArvinZhangX/file_tem/blob/master/shang_diao.jpg)
 
 感谢 *浩赞赏支持50元  刁志昕支持20元 .... 后续所有名单都会补充，赞赏用于服务器租用费用，谢谢大家
-*文昌   * 小衡  支持 50元
+*文昌   * 小衡   广浩 ....支持 50元
 
 ↑ ↑ 视频的地址放到  webapp/static/videolook 这个目录下面 
