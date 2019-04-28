@@ -76,13 +76,16 @@ https://github.com/ArvinZhangX/file_tem/blob/master/chat_pay.png
 
 感谢 *浩赞赏支持50元  刁志昕支持20元 .... 后续所有名单都会补充，赞赏用于服务器租用费用，谢谢大家
 *文昌   * 小衡   广浩 ....支持 50元
-![image](https://github.com/ArvinZhangX/file_tem/blob/master/shang.jpg)
 
-![image](https://github.com/ArvinZhangX/file_tem/blob/master/shang_chen.png)
-
-![image](https://github.com/ArvinZhangX/file_tem/blob/master/shang0714.jpg)
-
-![image](https://github.com/ArvinZhangX/file_tem/blob/master/shang_diao.jpg)
-
+赞赏名单列表
+----
+|用户|额度|
+|:---:|:---:|
+|浩|  50![image](https://github.com/ArvinZhangX/file_tem/blob/master/shang.jpg)|
+|*文昌|50|
+|小衡|50|
+|*航|100|
+|*君|50|
+|刁志昕|20|
 
 
