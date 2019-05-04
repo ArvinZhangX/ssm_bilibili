@@ -57,7 +57,7 @@ PS:
 
 视频连接地址
 
-精力有限有问题可以联系微信  994397633   （只限赞赏用户，谢谢，其他不回复）
+精力有限有问题可以联系微信  994397633   （避免伸手党，只限赞赏用户，谢谢，其他不回复）
 
 ![image](https://github.com/ArvinZhangX/file_tem/blob/master/Alipay.png)
 如果您觉得对你有帮助，那么你可以给一些支持 工作qq：994397633
@@ -90,5 +90,5 @@ https://github.com/ArvinZhangX/file_tem/blob/master/chat_pay.png
 |*灵|80|
 |*琳健|50|
 |刁志昕|20|
-
+|*心|50|
 
