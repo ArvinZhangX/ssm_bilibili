@@ -5,6 +5,7 @@ import java.util.List;
 import com.sf.entity.ordertableEntity;
 import com.sf.entity.userEntity;
 
+// 作者： arvin     QQ  1185755587
 public interface LoginDao {
 		public int login(String userName,String passWord);
 		
