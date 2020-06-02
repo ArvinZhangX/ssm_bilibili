@@ -10,7 +10,7 @@ ssm(spring+spring mvc+mybatis+maven)高仿bilibili视频网站项目实例
 (论坛/购物/网页/后台)
 
 直接部署到tomcat 下面就可以执行
-![image](upload-images.jianshu.io/upload_images/2469080-29ac171e8784052a.png)
+![image](https://upload-images.jianshu.io/upload_images/2469080-29ac171e8784052a.png)
 
 ![image](https://github.com/ArvinZhangX/file_tem/blob/master/2469080-ee1a592efbccdcef.png)
 
