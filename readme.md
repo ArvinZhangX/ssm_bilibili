@@ -10,9 +10,10 @@ ssm(spring+spring mvc+mybatis+maven)高仿bilibili视频网站项目实例
 (论坛/购物/网页/后台)
 
 直接部署到tomcat 下面就可以执行
+![image](upload-images.jianshu.io/upload_images/2469080-29ac171e8784052a.png)
 
 ![image](https://github.com/ArvinZhangX/file_tem/blob/master/2469080-ee1a592efbccdcef.png)
-![image](upload-images.jianshu.io/upload_images/2469080-29ac171e8784052a.png)
+
 
 ![image](https://github.com/ArvinZhangX/ssm_bilibili/blob/master/bilibili/%E9%A1%B9%E7%9B%AE/%E4%B8%AA%E4%BA%BA%E5%90%8E%E5%8F%B0.png)
 ![image](upload-images.jianshu.io/upload_images/2469080-db7bc332752af532.png)
