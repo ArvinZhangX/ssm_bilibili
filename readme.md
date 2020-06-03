@@ -71,14 +71,15 @@ PS:
 
 精力有限有问题可以联系微信  994397633   
 扫一扫添加作者微信：
+
 ![image](https://upload-images.jianshu.io/upload_images/2469080-9e5b72a12caf99f8.png)
 
 （避免伸手党，只限赞赏用户，谢谢，其他不回复）
 * 支付宝赞赏
-![image](https://github.com/ArvinZhangX/file_tem/blob/master/Alipay.png)
+![image](https://upload-images.jianshu.io/upload_images/2469080-1cd54bd8fa66538b.png)
 
 * 微信赞赏
-![image](https://github.com/ArvinZhangX/file_tem/blob/master/chat_pay.png)
+![image](https://upload-images.jianshu.io/upload_images/2469080-b8742c3f87b3b3c3.png)
 
 - 如果您觉得对你有帮助，那么你可以给一些支持 工作qq：994397633
 - 服务器的费用也是一笔开销
@@ -92,7 +93,7 @@ PS:
 
 ![image](https://upload-images.jianshu.io/upload_images/2469080-1cd54bd8fa66538b.png)
 
-https://github.com/ArvinZhangX/file_tem/blob/master/chat_pay.png
+
 
 
 ### 感谢赞赏
