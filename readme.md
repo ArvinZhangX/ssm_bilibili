@@ -70,14 +70,17 @@ PS:
 ### 其他问题
 
 精力有限有问题可以联系微信  994397633   
-![扫一扫加微信](https://upload-images.jianshu.io/upload_images/2469080-9e5b72a12caf99f8.png)
+扫一扫添加作者微信：
+![image](https://upload-images.jianshu.io/upload_images/2469080-9e5b72a12caf99f8.png)
 
 （避免伸手党，只限赞赏用户，谢谢，其他不回复）
+* 支付宝赞赏
+![image](https://github.com/ArvinZhangX/file_tem/blob/master/Alipay.png)
 
-![支付宝赞赏](https://github.com/ArvinZhangX/file_tem/blob/master/Alipay.png)
-如果您觉得对你有帮助，那么你可以给一些支持 工作qq：994397633
-![微信赞赏](https://github.com/ArvinZhangX/file_tem/blob/master/chat_pay.png)
+* 微信赞赏
+![image](https://github.com/ArvinZhangX/file_tem/blob/master/chat_pay.png)
 
+- 如果您觉得对你有帮助，那么你可以给一些支持 工作qq：994397633
 - 服务器的费用也是一笔开销
 - 为用户提供更好的开发环境
 - 一杯咖啡
