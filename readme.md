@@ -57,28 +57,32 @@ ssm(spring+spring mvc+mybatis+maven)高仿bilibili视频网站项目实例
 3.启动Tomcat
 4.浏览器访问：http://localhost:8080
 PS: 
-项目流程: 下载数据库备份 →→下载static静态文件放到webapp下面→→视频可下载可不下载(重要:static这个文件一定要放在webapp下面 这样项目才可以访问)
+项目流程: 下载数据库备份 -->下载static静态文件放到webapp下面-->
+视频可下载可不下载(重要:static这个文件一定要放在webapp下面 这样项目才可以访问)
 
 视频的地址放到  webapp/static/videolook 这个目录下面 
-
-(数据库备份 项目截图 源码)
-
 
 
 (Static 静态文件  这个文件直接放到webapp下面 直接用)
 
-
 视频连接地址
 
-精力有限有问题可以联系微信  994397633   （避免伸手党，只限赞赏用户，谢谢，其他不回复）
+### 其他问题
 
-![image](https://github.com/ArvinZhangX/file_tem/blob/master/Alipay.png)
+精力有限有问题可以联系微信  994397633   
+![扫一扫加微信](https://upload-images.jianshu.io/upload_images/2469080-9e5b72a12caf99f8.png)
+
+（避免伸手党，只限赞赏用户，谢谢，其他不回复）
+
+![支付宝赞赏](https://github.com/ArvinZhangX/file_tem/blob/master/Alipay.png)
 如果您觉得对你有帮助，那么你可以给一些支持 工作qq：994397633
-![image](https://github.com/ArvinZhangX/file_tem/blob/master/chat_pay.png)
-服务器的费用也是一笔开销
-为用户提供更好的开发环境
-一杯咖啡
-请扫一扫微信支付（留言希望你带上自己的名字^_^）：
+![微信赞赏](https://github.com/ArvinZhangX/file_tem/blob/master/chat_pay.png)
+
+- 服务器的费用也是一笔开销
+- 为用户提供更好的开发环境
+- 一杯咖啡
+- 请扫一扫微信支付（留言希望你带上自己的名字^_^）;
+
 ![image](https://github.com/ArvinZhangX/file_tem/blob/master/chat_pay.png)
 
 ![image](https://upload-images.jianshu.io/upload_images/2469080-b8742c3f87b3b3c3.png)
@@ -86,6 +90,9 @@ PS:
 ![image](https://upload-images.jianshu.io/upload_images/2469080-1cd54bd8fa66538b.png)
 
 https://github.com/ArvinZhangX/file_tem/blob/master/chat_pay.png
+
+
+### 感谢赞赏
 
 万分感谢赞赏用户  Mr.Smirks , aibili, 陈毅,Ramelon,小洪,nico,好心的旅行家 等人支持
 使得服务器可以继续维持！！！跪谢大佬
@@ -98,7 +105,7 @@ https://github.com/ArvinZhangX/file_tem/blob/master/chat_pay.png
 ----
 |用户|额度|
 |:---:|:---:|
-|浩|  50https://github.com/ArvinZhangX/file_tem/blob/master/shang.jpg|
+|浩|  50|
 |*文昌|50|
 |小衡|50|
 |*航|100|
