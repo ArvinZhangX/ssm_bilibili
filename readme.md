@@ -87,7 +87,7 @@ PS:
 
 https://github.com/ArvinZhangX/file_tem/blob/master/chat_pay.png
 
-万分感谢赞赏用户  Mr.Smirks 、 aibili, 陈毅 等人支持
+万分感谢赞赏用户  Mr.Smirks , aibili, 陈毅,Ramelon,小洪,nico,好心的旅行家 等人支持
 使得服务器可以继续维持！！！跪谢大佬
 
 
@@ -109,4 +109,6 @@ https://github.com/ArvinZhangX/file_tem/blob/master/chat_pay.png
 |刁志昕|20|
 |*心|50|
 |jmartin|108|
-
+|好心的旅行家|100|
+|刘世伟|50|
+|王王王|50|
