@@ -14,7 +14,7 @@
 
 	<!-- 控制版本 -->
 	<properties>
-		<spring.version>4.3.2.RELEASE</spring.version>
+		<spring.version>5.2.20.RELEASE</spring.version>
 	</properties>
 
 	<dependencies>
